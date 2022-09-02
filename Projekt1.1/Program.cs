@@ -10,6 +10,8 @@ namespace Projekt1._1
 
 
             Console.WriteLine("bög");
+
+            Console.WriteLine("mmm");
         }
     }
 }
